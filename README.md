@@ -1,6 +1,9 @@
+Hi there, it seems you've disabled Issues on this repo which makes it hard for your users to report issues. Please see the issue one of your users opened at https://github.com/turtlecoin/turtlecoin/issues/481 as they were unable to find support here. You may want to enable issues on your repo to allow your users to report any issues they may have.
+
+
 ![image](https://user-images.githubusercontent.com/37904871/43226127-d8a101b2-9052-11e8-8e95-14f011034463.png)
 
-[![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin)
+[![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin) <!-- also, linking to our build images over at TurtleCoin is a bit misleading in your README.md :) -->
 [![Build status](https://ci.appveyor.com/api/projects/status/an6je6l48eawteyg?svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
 ### How To Compile
 
