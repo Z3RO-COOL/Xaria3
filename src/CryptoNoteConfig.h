@@ -88,7 +88,7 @@ const uint64_t MAXIMUM_MIXIN_V2                              = 7;
 const uint32_t MIXIN_LIMITS_V1_HEIGHT                        = 0;
 const uint32_t MIXIN_LIMITS_V2_HEIGHT                        = 1;
 
-const uint64_t DEFAULT_MIXIN                                 = 0;
+const uint64_t DEFAULT_MIXIN                                 = 1;
 
 const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(10);
 const uint64_t DEFAULT_DUST_THRESHOLD_V2                     = UINT64_C(10);
