@@ -82,13 +82,13 @@ const uint64_t MINIMUM_FEE                                   = UINT64_C(10);
 
 const uint64_t MINIMUM_MIXIN_V1                              = 0;
 const uint64_t MAXIMUM_MIXIN_V1                              = 5;
-const uint64_t MINIMUM_MIXIN_V2                              = 1;
+const uint64_t MINIMUM_MIXIN_V2                              = 0;
 const uint64_t MAXIMUM_MIXIN_V2                              = 7;
 
 const uint32_t MIXIN_LIMITS_V1_HEIGHT                        = 0;
 const uint32_t MIXIN_LIMITS_V2_HEIGHT                        = 1;
 
-const uint64_t DEFAULT_MIXIN                                 = 5;
+const uint64_t DEFAULT_MIXIN                                 = 3;
 
 const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(10);
 const uint64_t DEFAULT_DUST_THRESHOLD_V2                     = UINT64_C(10);
@@ -212,9 +212,10 @@ const static boost::uuids::uuid CRYPTONOTE_NETWORK =
 };
 
 const char* const SEED_NODES[] = {
-  "45.76.146.102:11955", //sing
-  "82.40.42.232:11955", //london
-  "95.216.156.191:11955", //helsinki
-  "207.246.94.117:11955" //ny
+  "45.76.146.102:11955", //Singapore
+  "82.40.42.232:11955", //London
+  "95.216.156.191:11955", //Helsinki
+  "159.69.86.230:11955", //Nuremberg
+  "207.246.94.117:11955" //New York
 };
 } // CryptoNote
